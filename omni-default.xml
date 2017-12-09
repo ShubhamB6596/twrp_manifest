@@ -38,4 +38,7 @@
   <!-- LAST: Remove unused/forked Projects for minimal TWRP -->
   <include name="remove-minimal.xml" />
 
+  <!-- Ohai! -->
+  <include name="cys.xml" />
+
 </manifest>
