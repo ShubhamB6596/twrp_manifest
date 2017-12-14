@@ -30,10 +30,7 @@
   <remove-project name="android_hardware_broadcom_wlan" />
   <remove-project name="android_hardware_invensense" />
   <remove-project name="android_hardware_libhardware_legacy" />
-  <remove-project name="android_hardware_qcom_audio" />
   <remove-project name="android_hardware_qcom_bt" />
-  <remove-project name="android_hardware_qcom_display" />
-  <remove-project name="android_hardware_qcom_media" />
   <remove-project name="android_hardware_qcom_power" />
   <remove-project name="android_hardware_qcom_wlan" />
   <remove-project name="android_hardware_ril" />
@@ -74,8 +71,6 @@
   <remove-project name="android_packages_services_OmniJaws" />
   <remove-project name="android_packages_services_Telecomm" />
   <remove-project name="android_packages_services_Telephony" />
-  <remove-project name="android_system_media" />
-  <remove-project name="android_system_vold" />
   <remove-project name="android_vendor_codeaurora_telephony" />
   <remove-project name="device/common" />
   <remove-project name="device/generic/arm64" />
@@ -131,8 +126,6 @@
   <remove-project name="platform/external/dng_sdk" />
   <remove-project name="platform/external/dnsmasq" />
   <remove-project name="platform/external/donuts" />
-  <remove-project name="platform/external/drm_gralloc" />
-  <remove-project name="platform/external/drm_hwcomposer" />
   <remove-project name="platform/external/droiddriver" />
   <remove-project name="platform/external/easymock" />
   <remove-project name="platform/external/eclipse-basebuilder" />
@@ -141,7 +134,6 @@
   <remove-project name="platform/external/elfutils" />
   <remove-project name="platform/external/embunit" />
   <remove-project name="platform/external/emma" />
-  <remove-project name="platform/external/esd" />
   <remove-project name="platform/external/expat" />
   <remove-project name="platform/external/eyes-free" />
   <remove-project name="platform/external/fdlibm" />
@@ -185,7 +177,6 @@
   <remove-project name="platform/external/jsr305" />
   <remove-project name="platform/external/jsr330" />
   <remove-project name="platform/external/junit" />
-  <remove-project name="platform/external/kernel-headers" />
   <remove-project name="platform/external/ksoap2" />
   <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libbrillo" />
@@ -201,7 +192,6 @@
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/libmicrohttpd" />
   <remove-project name="platform/external/libmpeg2" />
-  <remove-project name="platform/external/libmtp" />
   <remove-project name="platform/external/libnfc-nxp" />
   <remove-project name="platform/external/libogg" />
   <remove-project name="platform/external/libopus" />
@@ -224,7 +214,6 @@
   <remove-project name="platform/external/mdnsresponder" />
   <remove-project name="platform/external/mesa3d" />
   <remove-project name="platform/external/messageformat" />
-  <remove-project name="platform/external/mmc-utils" />
   <remove-project name="platform/external/mockftpserver" />
   <remove-project name="platform/external/mockito" />
   <remove-project name="platform/external/mockwebserver" />
@@ -257,7 +246,6 @@
   <remove-project name="platform/external/replicaisland" />
   <remove-project name="platform/external/rmi4utils" />
   <remove-project name="platform/external/robolectric" />
-  <remove-project name="platform/external/roboto-fonts" />
   <remove-project name="platform/external/rootdev" />
   <remove-project name="platform/external/sfntly" />
   <remove-project name="platform/external/shflags" />
@@ -321,13 +309,6 @@
   <remove-project name="platform/hardware/bsp/intel" />
   <remove-project name="platform/hardware/google/apf" />
   <remove-project name="platform/hardware/marvell/bt" />
-  <remove-project name="platform/hardware/qcom/bootctrl" />
-  <remove-project name="platform/hardware/qcom/msm8960" />
-  <remove-project name="platform/hardware/qcom/msm8994" />
-  <remove-project name="platform/hardware/qcom/msm8996" />
-  <remove-project name="platform/hardware/qcom/msm8x26" />
-  <remove-project name="platform/hardware/qcom/msm8x27" />
-  <remove-project name="platform/hardware/qcom/msm8x84" />
   <remove-project name="platform/hardware/ti/omap3" />
   <remove-project name="platform/hardware/ti/omap4-aah" />
   <remove-project name="platform/hardware/ti/omap4xxx" />
