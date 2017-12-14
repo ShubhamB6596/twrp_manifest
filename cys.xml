@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remove-project name="android_bootable_recovery" />
+<remove-project name="android_system_sepolicy" />
 <project name="CheckYourScreen/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-8.0" />
 <project name="CheckYourScreen/android_vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="github" revision="android-8.0" />
 <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
 <project name="CheckYourScreen/twrp_device_motorola_sanders" path="device/motorola/sanders" remote="github" revision="twrp" />
-<project name="LineageOS/android_system_sepolicy" path="system/sepolicy" remote="github" revision="cm-14.1" />
+<project name="CheckYourScreen/android_system_sepolicy" path="system/sepolicy" remote="github" revision="master" />
 <project name="omnirom/android_device_qcom_caf-sepolicy" path="device/qcom/sepolicy" remote="github" revision="android-7.1" />
 <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf-msm8974" remote="github" revision="cm-14.1-caf-8974" />
 <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf-msm8974" remote="github" revision="cm-14.1-caf-8974" />
