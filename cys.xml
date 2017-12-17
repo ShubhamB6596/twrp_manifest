@@ -2,7 +2,7 @@
 <manifest>
 <remove-project name="android_bootable_recovery" />
 <remove-project name="android_system_sepolicy" />
-<project name="sb6596/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-8.0" />
+<project name="sb6596/android_bootable_recovery" path="bootable/recovery" remote="github" revision="Android-8.0/CheckYourScreen" />
 <project name="CheckYourScreen/android_vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="github" revision="android-8.0" />
 <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
 <project name="sb6596/twrp_device_zuk_ham" path="device/zuk/ham" remote="github" revision="twrp" />
